@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VARAD-CURRENCY-CONVERTER</string>
+
+
+
+    <string-array name="cur1">
+        <item>SELECT CURRENCY</item>
+        <item>INR</item>
+        <item>USD</item>
+        <item>Pound</item>
+
+    </string-array>
+
+
+    <string-array name="cur2">
+        <item>SELECT CURRENCY</item>
+        <item>INR</item>
+        <item>USD</item>
+        <item>Pound</item>
+
+    </string-array>
+
+
+
+
+</resources>
